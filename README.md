@@ -1,4 +1,4 @@
-🎮 Devil Trolls Game
+🎮 Devil Trolls Game.
 
 Devil Trolls is a fun and frustrating 2D platformer built using C# in Visual Studio.
 The game is designed to troll players — every obstacle that seems safe isn’t, and nothing normal can be trusted.
